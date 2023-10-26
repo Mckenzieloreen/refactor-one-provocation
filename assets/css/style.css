@@ -7,7 +7,7 @@
 body {
     background-color: #d9dcd6;
 }
-
+/* Changed . haeder slector header to only select the header element */
 header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
@@ -46,7 +46,7 @@ a {
     text-decoration: none;
 }
 
-p {
+p { 
     font-size: 16px;
 }
 
